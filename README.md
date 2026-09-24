@@ -154,6 +154,7 @@ Users can ask various questions, including:
 
 ## 13. Screenshots
 <img width="1917" height="1075" alt="chat Histroy" src="https://github.com/user-attachments/assets/8a755274-f4bc-434e-9be8-6370e318c259" />
+<img width="1901" height="1071" alt="conversation" src="https://github.com/user-attachments/assets/7470a6d1-ee7f-4b3b-825d-15638c7fc0d7" />
 
 ## 14. Future Enhancements
 
