@@ -155,6 +155,8 @@ Users can ask various questions, including:
 ## 13. Screenshots
 <img width="1917" height="1075" alt="chat Histroy" src="https://github.com/user-attachments/assets/8a755274-f4bc-434e-9be8-6370e318c259" />
 <img width="1901" height="1071" alt="conversation" src="https://github.com/user-attachments/assets/7470a6d1-ee7f-4b3b-825d-15638c7fc0d7" />
+<img width="1917" height="1076" alt="Home page" src="https://github.com/user-attachments/assets/03ae6d81-0338-4e97-b9e2-910dd96876ea" />
+<img width="1916" height="1077" alt="nlp feature" src="https://github.com/user-attachments/assets/fe85120b-f33c-4a86-8eaa-14e41d4f9467" />
 
 ## 14. Future Enhancements
 
