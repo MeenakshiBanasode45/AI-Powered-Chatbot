@@ -154,11 +154,7 @@ Users can ask various questions, including:
 
 ## 13. Screenshots
 
-![Chat Interface](screenshots/chat.png)
-*(Placeholder for Chat Interface Screenshot)*
 
-![Admin Dashboard](screenshots/admin.png)
-*(Placeholder for Admin Dashboard Screenshot)*
 
 ## 14. Future Enhancements
 
@@ -170,9 +166,7 @@ Users can ask various questions, including:
 
 ## 15. Author
 
-**[Your Name / Student Name]**  
-*Internship Project 2024*
+**[Meenakshi Bnasode]**  
+*Internship Project 2026*
 
-## 16. License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+ 
