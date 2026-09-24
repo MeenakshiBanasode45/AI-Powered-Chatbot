@@ -153,8 +153,7 @@ Users can ask various questions, including:
 - "I need to speak to a human about a complaint."
 
 ## 13. Screenshots
-
-
+<img width="1917" height="1075" alt="chat Histroy" src="https://github.com/user-attachments/assets/8a755274-f4bc-434e-9be8-6370e318c259" />
 
 ## 14. Future Enhancements
 
